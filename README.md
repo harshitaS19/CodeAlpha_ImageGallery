@@ -1,5 +1,5 @@
 PixelGallery - Responsive Image Gallery
-A modern, Pinterest-style image gallery built with HTML, CSS, and JavaScript featuring a lightbox view, image filtering.
+A modern style image gallery built with HTML, CSS, and JavaScript featuring a lightbox view, image filtering.
 
 🌟 Features
 
